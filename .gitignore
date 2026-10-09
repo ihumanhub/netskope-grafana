@@ -1,0 +1,6 @@
+# Managed by open-vault — only .github_secure/ is committed.
+# Everything else in the working tree is treated as plaintext and
+# excluded from the public repo.
+/*
+!/.gitignore
+!/.github_secure/
